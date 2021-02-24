@@ -1,0 +1,15 @@
+{
+  "name": "seleniumexample",
+  "version": "1.0.0",
+  "description": "Selenium Example Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.1"
+  }
+}
